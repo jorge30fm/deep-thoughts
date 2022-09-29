@@ -43,6 +43,12 @@ Download code, and run scripts detailed in package.json to install dependencies,
 Users that are not logged in can view thoughts through the homepage, but cannot interact, add reactions or post their own thoughts. Users can sign up or log in by clicking the appropriate links in the navigation component
 Once logged in, users can view their profile, where information about their friendlist and thoughts are displayed. Users can add thoughts, add reactions, and add friends.
 
+FEATURES:
+Users can log in/sign up and be authenticated via JWT.
+Users can see posts without logging in, but will be prompted to login page if they try to interact witht he posts
+Users can view their posts on thier profile page, as well as edit/delete posts they choose
+Users can add other users as friends, making it easier to see their posts and interact with them
+
 <img src='./client/public/assets/images/homepage.jpg' />
 <img src='./client/public/assets/images/login.jpg'/>
 <img src='./client/public/assets/images/signup.jpg'/>
