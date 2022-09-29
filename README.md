@@ -80,9 +80,9 @@ No test provided.
 
 For any questions, concerns, or ideas for contributions, email me or contact me via gitHub.
 
-**GitHub Profile:** <https://github.com/jorge30fm>
+[GitHub Profile](https://github.com/jorge30fm)
 
-**GitHub Repository:** <https://github.com/jorge30fm/deep-thoughts>
-**Deployed App:** <https://hidden-anchorage-50418.herokuapp.com/>
+[GitHub Repository](https://github.com/jorge30fm/deep-thoughts)
+[Deployed App](https://hidden-anchorage-50418.herokuapp.com/)
 
 **Email:** jorge30fm@gmail.com
