@@ -83,6 +83,7 @@ For any questions, concerns, or ideas for contributions, email me or contact me 
 [GitHub Profile](https://github.com/jorge30fm)
 
 [GitHub Repository](https://github.com/jorge30fm/deep-thoughts)
+
 [Deployed App](https://hidden-anchorage-50418.herokuapp.com/)
 
 **Email:** jorge30fm@gmail.com
